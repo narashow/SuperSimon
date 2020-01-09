@@ -1,3 +1,10 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
 .cercle{
     display: flex;
     justify-content: center;
@@ -6,6 +13,8 @@
     width: 100px;
     background-color: green;
     border-radius: 50px;
+    border: 5px white solid;
+    z-index: 100;
 }
 .contener{
     height: 100vh;
@@ -13,4 +22,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.bloc1{
+    position: absolute;
+    top: 130px;
+    left: 480px;
+    border-top-left-radius: 200px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
 }
