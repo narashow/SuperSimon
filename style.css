@@ -32,3 +32,12 @@ body{
     width: 200px;
     background-color: blue;
 }
+.bloc2{
+    position: absolute;
+    top: 130px;
+    right: 480px;
+    border-top-right-radius: 200px;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
