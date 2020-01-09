@@ -30,7 +30,7 @@ body{
     border-top-left-radius: 200px;
     height: 200px;
     width: 200px;
-    background-color: blue;
+    background-color: rgb(13, 13, 139);
 }
 .bloc2{
     position: absolute;
@@ -39,7 +39,7 @@ body{
     border-top-right-radius: 200px;
     height: 200px;
     width: 200px;
-    background-color: red;
+    background-color: rgb(119, 5, 5);
 }
 .bloc3{
     position: absolute;
@@ -48,7 +48,7 @@ body{
     border-bottom-left-radius: 200px;
     height: 200px;
     width: 200px;
-    background-color:green;
+    background-color:rgb(9, 92, 9);
 }
 .bloc4{
     position: absolute;
@@ -57,5 +57,5 @@ body{
     border-bottom-right-radius: 200px;
     height: 200px;
     width: 200px;
-    background-color:yellow;
+    background-color:rgb(190, 190, 16);
 }
