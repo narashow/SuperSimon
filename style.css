@@ -11,7 +11,7 @@ body{
     align-items: center;
     height: 100px;
     width: 100px;
-    background-color: green;
+    background-color: purple;
     border-radius: 50px;
     border: 5px white solid;
     z-index: 100;
@@ -40,4 +40,22 @@ body{
     height: 200px;
     width: 200px;
     background-color: red;
+}
+.bloc3{
+    position: absolute;
+    bottom: 120px;
+    left: 480px;
+    border-bottom-left-radius: 200px;
+    height: 200px;
+    width: 200px;
+    background-color:green;
+}
+.bloc4{
+    position: absolute;
+    bottom: 120px;
+    right : 480px;
+    border-bottom-right-radius: 200px;
+    height: 200px;
+    width: 200px;
+    background-color:yellow;
 }
